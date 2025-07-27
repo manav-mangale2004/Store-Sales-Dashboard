@@ -1,61 +1,73 @@
-🛒 Superstore Sales Dashboard – Power BI Project
-Welcome to my Power BI project focused on sales analysis for a Superstore dataset! This project showcases an interactive and visually insightful dashboard that explores business performance across various product categories, regions, and customer segments.
+# 🛒 Superstore Sales Dashboard – Power BI Project
 
-📌 Project Overview
+Welcome to my Power BI project focused on sales analysis for a **Superstore dataset**!  
+This interactive and visually insightful dashboard explores business performance across various **product categories**, **regions**, and **customer segments**.
+
+---
+
+## 📌 Project Overview
+
 This Power BI dashboard provides a comprehensive analysis of sales and profitability across three major product categories:
 
-Office Supplies
+- 🗂️ **Office Supplies**
+- 🪑 **Furniture**
+- 💻 **Technology**
 
-Furniture
+The dashboard enables users to interact with the data using dynamic filters and slicers for deeper insights and user-driven exploration.
 
-Technology
+---
 
-The dashboard allows users to interact with data through dynamic filters and slicers, enabling deeper insights and user-driven exploration.
+## ✅ Key Features
 
-✅ Key Features
-📊 Category-wise Sales & Profit Breakdown
-Understand how each product category is contributing to overall revenue and profit.
+- 📊 **Category-wise Sales & Profit Breakdown**  
+  Analyze how each product category contributes to revenue and profit.
 
-🌍 Regional & Segment-wise Analysis
-Evaluate how different customer segments and geographic regions perform.
+- 🌍 **Regional & Segment-wise Analysis**  
+  Understand performance across customer segments and geographic regions.
 
-📈 Trend Visualizations
-Interactive line, bar, and pie charts showcase sales patterns over time.
+- 📈 **Trend Visualizations**  
+  View sales patterns using interactive line, bar, and pie charts.
 
-🔄 Dynamic Slicers and Filters
-Users can slice data by Region, Category, Segment, and more for a customized view.
+- 🔄 **Dynamic Slicers and Filters**  
+  Slice data by Region, Category, Segment, and more for custom analysis.
 
-📌 KPI Indicators
-Track overall performance metrics like total sales, total profit, and profit margin in one glance.
+- 📌 **KPI Indicators**  
+  Monitor key performance metrics like Total Sales, Total Profit, and Profit Margin at a glance.
 
-💡 Skills Demonstrated
-Through this project, I strengthened my hands-on experience in:
+---
 
-Power BI Dashboard Design – Clean layout and intuitive visual arrangement
+## 💡 Skills Demonstrated
 
-DAX (Data Analysis Expressions) – Used for creating custom measures and logic
+- 🎨 **Power BI Dashboard Design** – Clean layout and intuitive visual arrangement  
+- 🧮 **DAX (Data Analysis Expressions)** – Created custom measures and logic  
+- 🧹 **Power Query** – Performed data cleaning and transformation  
+- 📖 **Storytelling with Data** – Presented business insights effectively
 
-Power Query – Data cleaning and transformation for analytical readiness
+---
 
-Storytelling with Data – Presenting business insights in a meaningful way
+## 🛠 Tools & Technologies Used
 
-🛠 Tools & Technologies Used
-Power BI
+- **Power BI**  
+- **Power Query**  
+- **DAX**
 
-Power Query
+---
 
-DAX
+## 📁 Dataset
 
+The dataset used is a **sample Superstore Sales dataset**, widely used for business intelligence demonstrations.  
+It includes details on orders, sales, profit, shipping, and customer information.
 
-📁 Dataset
-The dataset used in this project is a sample Superstore Sales dataset commonly used for business intelligence demos. It contains details on orders, sales, profit, shipping, and customer data.
+---
 
-🔗 Connect with Me
-Feel free to connect or share feedback:
+## 🔗 Connect with Me
 
-📧 Email: mangalemanav8@gmail.com
+- 📧 **Email**: [mangalemanav8@gmail.com](mailto:mangalemanav8@gmail.com)  
+- 💼 **LinkedIn**: [Manav Mangale](https://www.linkedin.com/in/manav-mangale-085a55318/)
 
-💼 LinkedIn: https://www.linkedin.com/in/manav-mangale-085a55318/
+---
 
-📌 Tags / Keywords
-#PowerBI #SalesDashboard #SuperstoreSales #DataAnalytics #DataVisualization #PowerQuery #DAX #DashboardDesign #BusinessIntelligence #ManavMangale
+## 📌 Tags / Keywords
+
+`#PowerBI` `#SalesDashboard` `#SuperstoreSales` `#DataAnalytics` `#DataVisualization`  
+`#PowerQuery` `#DAX` `#DashboardDesign` `#BusinessIntelligence` `#ManavMangale`
